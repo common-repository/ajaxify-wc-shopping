@@ -1,0 +1,73 @@
+/*
+ * Awcs frontend styles
+ * 
+ * CSS changes/adjustments
+ *   
+ */
+
+form.woocommerce-checkout #customer_details .col-1, form.woocommerce-checkout #customer_details .col-2, .woocommerce-MyAccount-content .woocommerce-Address {
+	max-width: 100%;
+}
+
+.logged-in.woocommerce-account #site-content .woocommerce, .woocommerce .form-row {
+	display: block;
+}
+
+.added_to_cart {
+	margin-left: 5px;
+}
+
+.ui-widget-content a.added_to_cart {
+    background-color: transparent;
+}
+
+.ui-widget-content a.added_to_cart:hover {
+	color: #000000;
+}
+
+.woocommerce-MyAccount-navigation {
+	float: left;
+}
+
+.woocommerce-MyAccount-content {
+	float: right;
+	width: 70%;
+}
+
+.woocommerce-MyAccount-navigation ul {
+	margin-left: 0px;
+}
+
+.woocommerce-MyAccount-navigation ul li a {
+	text-decoration: none;
+    display: block;
+}
+
+.woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link {
+	padding: 5px;
+}
+
+ul.woocommerce-PaymentMethods li.woocommerce-PaymentMethod img {
+	display: inline-block;
+	width: 40px;
+	padding-left: 3px;
+	margin: 0;
+}
+
+.theme-leto ul.products li.product {
+    display: inline-block;
+    width: 24%;
+}
+
+#primary, #container, .container {
+	width: 100%;
+}
+
+.entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
+	width: 100%;
+	max-width: 100%;
+}
+
+#awcs_shop_content_wrapper .woocommerce-breadcrumb {
+	margin-bottom: 20px;
+}

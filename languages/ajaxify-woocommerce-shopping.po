@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-08-06 23:35-0700\n"
+"PO-Revision-Date: 2021-08-06 23:36-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;translate_nooped_plural;"
+"number_format_i18n;date_i18n;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;esc_attr;esc_html;esc_url\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/awcs-common-functions.php:63
+msgid "Home"
+msgstr ""
+
+#: includes/awcs-common-functions.php:97
+#, php-format
+msgid "Page %d"
+msgstr ""
+
+#: includes/class-awcs-basic-scripts.php:364
+msgid "Error processing checkout. Please try again."
+msgstr ""
+
+#: includes/class-awcs-basic-scripts.php:373
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+
+#: includes/class-awcs-basic-scripts.php:374
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr ""
+
+#: includes/class-awcs-basic-scripts.php:375
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: includes/class-awcs-find-products.php:285
+msgid "Showing the single result"
+msgstr ""
+
+#: includes/class-awcs-find-products.php:288
+#, php-format
+msgid "Showing all %d result"
+msgstr ""
+
+#: includes/class-awcs-find-products.php:293
+#, php-format
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:117
+msgid "Please enter a valid Eircode."
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:120
+msgid "Please enter a valid postcode / ZIP."
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:224
+msgid "First name"
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:225
+msgid "Last name"
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:226
+msgid "Display name"
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:227
+msgid "Email address"
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:329
+#: includes/class-awcs-form-handler.php:333
+msgid "Error:"
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:333
+msgid "Username is required."
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:476
+#: includes/class-awcs-form-handler.php:483
+msgid "Invalid payment method."
+msgstr ""
+
+#: includes/class-awcs-form-handler.php:506
+#: templates/content-only-page/awcs-content-only-page.php:58
+msgid "Order received"
+msgstr ""
+
+#: includes/class-awcs-my-account.php:176
+msgid "Pay for order"
+msgstr ""
+
+#: includes/class-awcs-wc-cart-actions.php:89
+msgid "Coupon code removed successfully."
+msgstr ""
+
+#: includes/class-awcs-wc-cart-actions.php:102
+#, php-format
+msgid "&ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/class-awcs-wc-cart-actions.php:102
+msgid "Item"
+msgstr ""
+
+#: includes/class-awcs-wc-cart-actions.php:107
+#: includes/class-awcs-wc-cart-actions.php:111
+#, php-format
+msgid "%s removed."
+msgstr ""
+
+#: includes/class-awcs-wc-cart-actions.php:108
+msgid "Undo?"
+msgstr ""
+
+#: includes/class-awcs-wc-cart-actions.php:153
+#, php-format
+msgid "You can only have 1 %s in your cart."
+msgstr ""
+
+#: includes/class-awcs-wc-cart-actions.php:205
+msgid "Cart updated."
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:136
+msgid "General Settings"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:151
+msgid "Target Element *"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:152
+msgid ""
+"Target element is where ajax content will be loaded. It should be an unique "
+"element. Generally, it is the main content area of your website."
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:155
+msgid "Target Element"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:161
+msgid "Select categories"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:162
+msgid ""
+"Show products only from selected categories when products first load in shop "
+"page. It does not apply for category/tag page products. <br /><b>( Leaving "
+"blank will consider all products )</b>"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:164
+msgid "Select Category"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:170
+msgid "Exclude products"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:171
+msgid ""
+"Above selected products will be excluded in shop page. It does not apply for "
+"category/tag page products."
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:173
+msgid "Select Product"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:179
+msgid "Product Display Option"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:193
+msgid "Limit number of products / Products per page"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:194
+msgid ""
+"Maximum number of products to display or products per page if pagination is "
+"selected."
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:197
+msgid "Number of products"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:203
+#: settings/class-awcs-admin-settings.php:215
+msgid "Product Sort By"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:204
+msgid ""
+"Determines how products are sorted when the products first load in shop/"
+"category/tag archive page."
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:221
+msgid "Custom single product selector"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:222
+msgid ""
+"Comma separated list of jquery selectors. Use this option if your active "
+"theme has custom product listing."
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:225
+#: settings/class-awcs-admin-settings.php:235
+#: settings/class-awcs-admin-settings.php:245
+msgid "Selectors"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:231
+msgid "Custom category selector"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:232
+msgid ""
+"Comma separated list of jquery selectors. Use this option if your active "
+"theme has custom category selector."
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:241
+msgid "Custom tag selector"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:242
+msgid ""
+"Comma separated list of jquery selectors. Use this option if your active "
+"theme has custom tag selector."
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:251
+msgid "Remove ajax loading icon"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:252
+msgid "Remove ajax loading icon if your active theme has overlapping icon."
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:258
+msgid "Single product template"
+msgstr ""
+
+#: settings/class-awcs-admin-settings.php:259
+msgid ""
+"Default = As it is served by woocommerce template hierarchy.<br />Select "
+"\"Override to resolve conflict\" only if your active theme has different "
+"functionality for product image gallery that conflict with default one."
+msgstr ""
+
+#: settings/class-awcs-callback-functions.php:233
+msgid "Select category"
+msgstr ""
+
+#: settings/class-awcs-callback-functions.php:310
+msgid "Select product"
+msgstr ""
+
+#: templates/admin/awcs-setting-tabs.php:17
+msgid "Settings"
+msgstr ""
